@@ -1,3 +1,19 @@
+# Using Parser
+
+## Install
+
+```bash
+yarn add @kenzic/story
+```
+
+## Usage
+
+### JavaScript
+
+```javascript
+import { storyToJsonl } from '@kenzic/story';
+```
+
 # Story Format Documentation
 
 ## Introduction
