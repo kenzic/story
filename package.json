@@ -1,7 +1,7 @@
 {
   "name": "@kenzic/story",
   "version": "0.9.0",
-  "description": "Simple plain text format designed to facilitate the creation of fine-tuning training examples for open ai",
+  "description": "Simple plain text format designed to facilitate the creation of fine-tuning training examples for Open AI",
   "main": "dist/index.js",
   "bin": {
     "story": "./dist/cli.js"
